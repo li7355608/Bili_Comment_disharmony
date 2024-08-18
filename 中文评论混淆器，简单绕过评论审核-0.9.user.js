@@ -9,6 +9,7 @@
 // @exclude      *://*.space.bilibili.com/*
 // @exclude      *://*.account.bilibili.com/*
 // @exclude      *://*.member.bilibili.com/*
+// @exclude      *://*.show.bilibili.com/*
 // @grant        none
 // ==/UserScript==
 
