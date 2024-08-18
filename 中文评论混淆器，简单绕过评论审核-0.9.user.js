@@ -1,10 +1,14 @@
 // ==UserScript==
 // @name         中文评论混淆器，简单绕过评论审核
-// @namespace    http://tampermonkey.net/
+// @namespace    http://bilibili.com/
 // @version      0.9
 // @description  混淆中文评论并输出到控制台，并弹窗提示
-// @author       Your Name
+// @author       Atri
 // @match        *://*.bilibili.com/*
+// @exclude      *://*.live.bilibili.com/*
+// @exclude      *://*.space.bilibili.com/*
+// @exclude      *://*.account.bilibili.com/*
+// @exclude      *://*.member.bilibili.com/*
 // @grant        none
 // ==/UserScript==
 
