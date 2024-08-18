@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         中文评论混淆器，简单绕过评论审核
+// @name         中文评论混淆器
 // @namespace    http://bilibili.com/
 // @version      0.9
 // @description  混淆中文评论并输出到控制台，并弹窗提示
